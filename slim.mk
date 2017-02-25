@@ -32,3 +32,4 @@ PRODUCT_DEVICE := hero2lte
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_RELEASE_NAME := hero2lte
+PRODUCT_GMS_CLIENTID_BASE := android-samsung
